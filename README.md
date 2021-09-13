@@ -174,4 +174,4 @@ Send the following test query returning the `title`, `intro`, and `long_text` of
 
 Curious to learn more about Storyblok and how it can improve your StepZen project? You can see Facundo Giuliani and Anthony Campolo walk through creating content in Storyblok and connecting to StepZen in [How to mix data from Storyblok CMS with your own project using StepZen](https://www.youtube.com/watch?v=gDxYEUIzRMQ).
 
-You can sign up for StepZen at the [following link](https://stepzen.com/signup). If you've got more questions or just want to hang out you can also join us [on our Discord](https://discord.gg/T2st3mCp).
+You can sign up for StepZen at the [following link](https://stepzen.com/signup). If you have more questions or just want to hang out you can also join us [on our Discord](https://discord.gg/T2st3mCp).
