@@ -1,0 +1,6 @@
+schema
+  @sdl(
+    files: [ "schema/storyblok.graphql" ]
+  ) {
+  query: Query
+}

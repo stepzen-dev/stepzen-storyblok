@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: storyblok_config
+      token: xxxx
