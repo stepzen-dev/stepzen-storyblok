@@ -1,6 +1,9 @@
 schema
   @sdl(
-    files: [ "schema/storyblok.graphql" ]
+    files: [
+      "schema/storyblok.graphql"
+      "schema/products.graphql"
+    ]
   ) {
   query: Query
 }

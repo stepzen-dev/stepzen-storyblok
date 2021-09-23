@@ -1,4 +1,9 @@
 configurationset:
   - configuration:
       name: storyblok_config
-      token: xxxx
+      token: <YOUR_TOKEN_HERE>
+  - configuration:
+      name: shopify_config
+      api_key: <YOUR_API_KEY>
+      api_password: <YOUR_API_PASSWORD>
+      store_name: <YOUR_STORE_NAME>

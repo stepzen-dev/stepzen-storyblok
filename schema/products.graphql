@@ -1,0 +1,14 @@
+type Product {
+  id: ID!
+  handle: String
+  title: String
+}
+
+type Query {
+  products: [Product]
+    @rest(
+      resultroot: "products[]"
+      endpoint: "https://$api_key:$api_password@$store_name.myshopify.com/admin/api/2020-01/products.json"
+      configuration: "shopify_config"
+    )
+}
